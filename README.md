@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spurrya
-- 👀 I’m interested in community development, urban planning, game theory
+- 👀 I’m interested in web3, community development, urban planning, game theory
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me spurrya@gmail.com 
